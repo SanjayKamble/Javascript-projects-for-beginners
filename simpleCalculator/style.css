@@ -1,0 +1,17 @@
+input[type="button"] {
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    border-color: black;
+    width: 100%;
+}
+
+
+input[type="text"]{
+    border-radius: 10px;
+    text-align: right;
+    background-color: black;
+    color: white;
+    border-color: white;
+    width: 96%;
+}
